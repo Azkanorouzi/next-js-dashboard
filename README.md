@@ -1,1 +1,1 @@
-This is a test next js project following the next-js tutorial
+A simple next js dashboard for testing purposes
